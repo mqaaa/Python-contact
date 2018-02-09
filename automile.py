@@ -1,4 +1,10 @@
 #! python3
+#Author : qmeng
+#MailTo : qmeng1128@163.com
+#QQ     : 1163306125
+#Blog   : http://blog.csdn.net/Mq_Go/
+#Create : 2018-02-09
+#Version: 1.0
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
