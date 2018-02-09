@@ -46,4 +46,4 @@ driver.switch_to_default_content()
 #点击发送
 driver.find_elements_by_class_name("nui-btn-text")[-2].click()
 sleep(5)
-driver.quit()
+driver.quit() 
