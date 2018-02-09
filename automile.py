@@ -14,7 +14,7 @@ driver.switch_to.frame("x-URS-iframe")
 driver.find_element_by_name("email").clear()
 driver.find_element_by_name("email").send_keys("qmeng1128")
 driver.find_element_by_name("password").clear()
-driver.find_element_by_name("password").send_keys("7047162",Keys.ENTER)
+driver.find_element_by_name("password").send_keys("xxxx",Keys.ENTER)
 sleep(5)
 
 #在表单里面操作完毕后，无论页面是否进行跳转，必须有退出表单的操作
