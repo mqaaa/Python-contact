@@ -18,7 +18,7 @@ sleep(2)
 #切换列表
 driver.switch_to.frame("x-URS-iframe")
 driver.find_element_by_name("email").clear()
-driver.find_element_by_name("email").send_keys("qmeng1128")
+driver.find_element_by_name("email").send_keys("")
 driver.find_element_by_name("password").clear()
 <<<<<<< HEAD
 driver.find_element_by_name("password").send_keys("xxxx",Keys.ENTER)
